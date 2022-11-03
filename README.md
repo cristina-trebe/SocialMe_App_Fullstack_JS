@@ -18,11 +18,12 @@ https://www.youtube.com/watch?v=XxXyfkrP298
 ## Frontend:
 
     React & Tailwind CSS
-        Create your project: npx create-react-app ./
+        Create the project: npx create-react-app ./
         Install Tailwind CSS: npm install -D tailwindcss postcss autoprefixer
                             npx tailwindcss init -p
-        Configure your template paths: tailwind.config.js
-        Add the Tailwind directives to your CSS: Add the **@tailwind** directives for each of Tailwind’s layers to your **./src/index.css file.**
+        Configure the template paths: tailwind.config.js
+        Add the Tailwind directives to your CSS: Add the **@tailwind** directives for each of Tailwind’s layers 
+                                                 to the **./src/index.css file.**
 
         install dependencies: $ npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uuid
 
